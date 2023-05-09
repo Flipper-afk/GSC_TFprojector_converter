@@ -7,7 +7,7 @@ Table of Content:
 *  2.) Vectorize Text into High-Dimensional Space in Google Colab:
  *    - 2.1. Import Queries from .csv File
  *    - 2.2. Generate Query Embeddings via [Universal Sentence Encoder (v3)](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder)
- *    - 2.3. Export Query Embeddings as .csv File
+ *    - 2.3. Export Query Embeddings as .tsv File
 *   3.) Import Query Embeddings into [Tensorflow Projector](https://projector.tensorflow.org/)
 
 Read more about the [TF Embedding Projector: a tool for visualizing high dimensional data ](https://ai.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
